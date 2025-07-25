@@ -30,4 +30,8 @@ Have you ever needed to quickly resize an image without installing any software 
 
 ---
 
+## 🌐 Project live link
+```
+https://velapoojitha.github.io/Image-Resizer/
+```
 
